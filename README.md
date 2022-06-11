@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blake-Madden&show_icons=true&theme=synthwave)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blake-Madden&show_icons=true&theme=synthwave&locale=es)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blake-Madden&show_icons=true&theme=vue-dark&locale=es)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blake-Madden&layout=compact)](https://github.com/Blake-Madden/github-readme-stats)
 

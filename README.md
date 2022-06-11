@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-<a href="https://github.com/Blake-Madden/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Blake-Madden&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/Blake-Madden/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blake-Madden&layout=compact" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blake-Madden&show_icons=true&theme=synthwave)
 
-### Main Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blake-Madden&repo=Wisteria-Dataviz)](https://github.com/Blake-Madden/Wisteria-Dataviz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blake-Madden&layout=compact)](https://github.com/Blake-Madden/github-readme-stats)
 
 <!--
 **Blake-Madden/Blake-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

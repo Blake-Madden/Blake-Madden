@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a:
+
+- :chart_with_upwards_trend: Data Analyst
+- :computer: C++ Developer
+- :books: Readability Formula Researcher
+- :fountain_pen: Amateur Typesetter
+- :earth_asia: (former!) Localization Engineer
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blake-Madden&show_icons=true&theme=synthwave)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blake-Madden&show_icons=true&theme=vue-dark&locale=es)

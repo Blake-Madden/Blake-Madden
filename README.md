@@ -2,7 +2,7 @@
 
 I'm a:
 
-- :chart_with_upwards_trend: Data Analyst
+- :chart_with_upwards_trend: Institutional Data Analyst
 - :computer: C++ Developer
 - :books: Readability Formula Researcher
 - :fountain_pen: Amateur Typesetter

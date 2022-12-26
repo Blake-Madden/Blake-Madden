@@ -7,10 +7,9 @@ I'm a:
 - :books: Readability Formula Researcher
 - :fountain_pen: Amateur Typesetter
 - :earth_asia: (former!) Localization Engineer
+- :camera: (very) Amateur photographer
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blake-Madden&show_icons=true&theme=synthwave)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blake-Madden&show_icons=true&theme=vue-dark&locale=es)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blake-Madden&layout=compact)](https://github.com/Blake-Madden/github-readme-stats)
 

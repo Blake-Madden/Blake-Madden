@@ -1,4 +1,4 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&author=Thomas%20Wayne)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Hello&author=Thomas%20Wayne)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Hi there 👋
 

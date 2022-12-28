@@ -1,4 +1,4 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=Mocha&quote=Follow%20me,%20I%20know%20a%20shortcut.&author=Thomas%20Wayne)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&quote=Follow%20me,%20I%20know%20a%20shortcut.&author=Thomas%20Wayne)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Hi there 👋
 

@@ -1,4 +1,4 @@
-<img src="prometheus.png" />
+<img src="prometheus.png" width="700" />
 
 ### Hi there 👋
 

@@ -10,7 +10,7 @@ I'm a:
 - :fountain_pen: Amateur Typesetter
 - :earth_asia: (former!) Localization Engineer
 - :camera: (very) Amateur Photographer
-- 👑 serving the Blessed Mother through open source
+- 👑 Serving the Blessed Mother through open source
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blake-Madden&show_icons=true&theme=synthwave)
 

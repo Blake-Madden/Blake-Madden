@@ -1,4 +1,4 @@
-<img src="mary-at-coffee-shop.png" width="700" />
+<img src="images/datawiz.png" width="700" />
 
 ### Hi there 👋
 
@@ -10,7 +10,7 @@ I'm a:
 - :fountain_pen: Amateur Typesetter
 - :earth_asia: (former!) Localization Engineer
 - :camera: (very) Amateur Photographer
-- 👑 Serving the Blessed Mother through open source
+- 👑 Serving the Blessed Mother through open source (check out the [Digital Marian Gallery](marian-gallery.md)!)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blake-Madden&show_icons=true&theme=synthwave)
 
